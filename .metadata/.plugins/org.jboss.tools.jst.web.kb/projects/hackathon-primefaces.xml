@@ -9,26 +9,39 @@
    <linked-resource name="%1;" path="%0"/>
    <linked-resource declaration="true" name="%2;" path="%1"/>
    <linked-resource name="%4;" path="%3"/>
-   <linked-resource name="%0;" path="%5"/>
-   <linked-resource name="%5;%7;" path="%6"/>
-   <linked-resource name="%3;" path="%7"/>
+   <linked-resource declaration="true" name="%5;" path="%4"/>
+   <linked-resource name="%0;" path="%6"/>
+   <linked-resource name="%6;%8;" path="%7"/>
+   <linked-resource name="%3;" path="%8"/>
   </core>
   <core validator-id="jboss.jsf.core"/>
   <el>
-   <linked-el length="22" name="%8" offset="725" path="%9"/>
+   <linked-el length="35" name="%9" offset="524" path="%10"/>
+   <linked-el length="34" name="%9" offset="675" path="%10"/>
+   <linked-el length="26" name="%9" offset="448" path="%10"/>
+   <linked-el length="35" name="%5" offset="524" path="%10"/>
+   <linked-el length="22" name="%5" offset="796" path="%10"/>
+   <linked-el length="34" name="%5" offset="675" path="%10"/>
+   <linked-el length="26" name="%5" offset="448" path="%10"/>
+   <linked-el length="35" name="%4" offset="524" path="%10"/>
+   <linked-el length="22" name="%4" offset="796" path="%10"/>
+   <linked-el length="34" name="%4" offset="675" path="%10"/>
+   <linked-el length="26" name="%4" offset="448" path="%10"/>
   </el>
  </validation>
  <aliases>
   <alias
-   path="/hackathon-primefaces/src/main/java/com/stefanini/repository/DenunciaRepository.java" value="%5"/>
-  <alias path="/hackathon-primefaces/src/main/webapp/index.xhtml" value="%9"/>
+   path="/hackathon-primefaces/src/main/java/com/stefanini/repository/DenunciaRepository.java" value="%6"/>
   <alias
-   path="/hackathon-primefaces/src/main/java/com/stefanini/util/EntityManagerProducer.java" value="%6"/>
-  <alias path="agenteMB" value="%8"/>
+   path="/hackathon-primefaces/src/main/java/com/stefanini/model/Agente.java" value="%9"/>
+  <alias path="/hackathon-primefaces/src/main/webapp/index.xhtml" value="%10"/>
+  <alias path="agenteMB" value="%5"/>
+  <alias
+   path="/hackathon-primefaces/src/main/java/com/stefanini/util/EntityManagerProducer.java" value="%7"/>
   <alias
    path="/hackathon-primefaces/src/main/java/com/stefanini/bean/AgenteBean.java" value="%4"/>
   <alias
-   path="/hackathon-primefaces/src/main/java/com/stefanini/repository/AgenteReposirory.java" value="%7"/>
+   path="/hackathon-primefaces/src/main/java/com/stefanini/repository/AgenteReposirory.java" value="%8"/>
   <alias
    path="/hackathon-primefaces/src/main/java/com/stefanini/service/DenunciaService.java" value="%0"/>
   <alias path="denunciaMB" value="%2"/>
