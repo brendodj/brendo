@@ -1,0 +1,33 @@
+package com.stefanini.bean;
+
+import java.io.Serializable;
+
+import javax.inject.Inject;
+
+import com.stefanini.service.AgenteService;
+
+
+public class AgenteBean implements Serializable{
+	 /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	@Inject
+	    private AgenteService agenteService;
+	 
+
+	    public AgenteService getAgenteService() {
+		return agenteService;
+	}
+
+
+	public void setAgenteService(AgenteService agenteService) {
+		this.agenteService = agenteService;
+	}
+
+
+		public String chamar() {
+	        return "/pages/teste";
+	    }
+
+}

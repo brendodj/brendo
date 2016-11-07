@@ -1,0 +1,28 @@
+package com.stefanini.bean;
+
+import javax.inject.Inject;
+import javax.inject.Named;
+
+import com.stefanini.service.AgenteService;
+
+@Named( "agenteMB")
+public class AgenteBean {
+	 @Inject
+	    private AgenteService agenteService;
+	 
+
+	    public AgenteService getAgenteService() {
+		return agenteService;
+	}
+
+
+	public void setAgenteService(AgenteService agenteService) {
+		this.agenteService = agenteService;
+	}
+
+
+		public String chamar() {
+	        return "pages/index";
+	    }
+
+}

@@ -1,0 +1,11 @@
+#Mon Nov 07 12:04:13 BRST 2016
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1478527453173
+c=0
+cmp=usage
+a=finishWizard
+cl=org.jboss.tools.hibernate.jpt.ui.wizard.GenerateEntitiesWizard
+v=2.1.1
+s=1

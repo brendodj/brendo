@@ -1,0 +1,18 @@
+package com.stefanini.bean;
+
+import javax.inject.Inject;
+import javax.inject.Named;
+
+import com.stefanini.service.AgenteService;
+import com.stefanini.service.DenunciaService;
+
+@Named( "agenteMB")
+public class AgenteBean {
+	 @Inject
+	    private AgenteService agenteService;
+
+	    public String chamar() {
+	        return "/pages/teste";
+	    }
+
+}

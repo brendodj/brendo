@@ -1,0 +1,121 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 15:34:50.765
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 15:34:51.795
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-11-07 15:34:54.136
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-11-07 15:34:54.138
+!MESSAGE Module hackathon-primefaces on WildFly 10.0 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-11-07 15:35:14.139
+!MESSAGE Module hackathon-primefaces on WildFly 10.0 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-11-07 15:35:43.955
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 15:35:53.450
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 15:35:54.491
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-11-07 15:35:57.032
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-11-07 15:36:30.331
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 15:36:35.303
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 15:36:36.450
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-11-07 15:36:38.850
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-11-07 15:41:40.747
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-11-07 15:41:40.857
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 15:41:40.865
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 15:41:41.895
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-11-07 15:41:44.252
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-11-07 15:42:40.934
+!MESSAGE Module hackathon-primefaces on WildFly 10.0 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-11-07 15:43:00.934
+!MESSAGE Module hackathon-primefaces on WildFly 10.0 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-11-07 15:47:37.608
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-11-07 15:47:37.671
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 15:47:40.853
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 15:47:41.878
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-11-07 15:47:43.143
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 15:48:04.120
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 15:48:05.136
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-11-07 15:48:06.316
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-11-07 15:48:06.318
+!MESSAGE Module hackathon-primefaces on WildFly 10.0 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-11-07 15:48:26.318
+!MESSAGE Module hackathon-primefaces on WildFly 10.0 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 15:49:07.425
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 15:49:08.453
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-11-07 15:49:09.626
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 15:50:46.879
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 15:50:47.915
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-11-07 15:50:50.325
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-11-07 16:06:04.464
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-11-07 16:06:12.599
+!MESSAGE The server "WildFly 10.0" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-11-07 16:06:13.647
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-11-07 16:06:16.975
+!MESSAGE Server Startup Succeeded
